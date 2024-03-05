@@ -4,11 +4,11 @@ This tool rips a massive amount of bmw/bmm files from a website I found.
 
 It will generate 1000s of files, however they are all very small and shouldn't cause any issues in terms of storage. 
 
-### Requirements 
+## Requirements 
 - Any version of linux/unix (makes system calls that will not work on Win/OSX)
 - ruby
 
-### Usage
+## Usage
 Invoke the script with 
 
 ```
